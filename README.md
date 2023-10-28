@@ -7,7 +7,9 @@ Populate each PCB with 6 x 470uf 2.5v 7343-20 low ESR Tantalum Capacitors
 
 # \*** PLEASE NOTE! \*** When ordering TantalACEr's you need to make sure you select "castellated holes" and "edge plating" in the advanced options \***
 
-
+![GitHub Image](/tant1.JPG)
+![GitHub Image](/tant2.JPG)
+![GitHub Image](/tant3.JPG)
 ​![GitHub Image](/IMG-7842.jpg)
 ​![GitHub Image](/IMG-7844.jpg)
 ​![GitHub Image](/IMG-7846.jpg)
